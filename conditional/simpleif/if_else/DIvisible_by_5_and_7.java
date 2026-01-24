@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class DIvisible_by_5_and_7_if_else{
+class DIvisible_by_5_and_7{
     public static void main(String[] args) {
         int a;
         Scanner in= new Scanner(System.in);
